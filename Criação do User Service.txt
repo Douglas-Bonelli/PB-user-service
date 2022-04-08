@@ -1,0 +1,14 @@
+Add Este no Git - git init
+			git add .
+			git commit -m "First Commit"
+			git remote add origin https://github.com/Douglas-Bonelli/PB-user-service.git
+			git remote -v
+			git push origin master
+
+
+Inclua Todas as Estruturas de Pasta com um Arquivo Txt em Cada Pasta.
+			Salve no git.
+
+----------------------------------------------------------------------------------------------
+Desenvolvendo a aplicação
+----------------------------------------------------------------------------------------------
